@@ -3,7 +3,11 @@ RENCANA KONTEN WPU
 - JAVASCRIPT
   *sintax baru
   *framework js
-  -struktur data dasar apalah banyak ubah2 jak
+   ^ Vue
+   ^ React
+-struktur data dasar apalah banyak ubah2 jak
 - PHP Frameworks
+ ^ Laravel
 - Interview
 - Vlog
+- Python
