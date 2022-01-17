@@ -4,6 +4,7 @@ RENCANA KONTEN WPU
   *sintax baru
   *framework js
    ^ Vue
+   ^ React
 -struktur data dasar apalah banyak ubah2 jak
 - PHP Frameworks
  ^ Laravel
